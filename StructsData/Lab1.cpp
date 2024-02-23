@@ -1,8 +1,6 @@
 #include "Includes.h"
 
 void Lab1() {
-	RusConsole();
-	cout << "Студент: 090304-РПИб-о23 Рыжкова Е.А." << endl << endl;
 	unsigned int N = 0; // число для ввода
 	unsigned long long x = 1; // число вводимое полярником
 	unsigned long long max = 0; // максимальное кратное

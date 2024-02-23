@@ -6,6 +6,8 @@
 
 int main()
 {
+    RusConsole();
+    cout << "Студент: 090304-РПИб-о23 Рыжкова Е.А." << endl << endl;
     Lab1();
 }
 
